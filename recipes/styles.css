@@ -1,0 +1,15 @@
+* {
+    background-color: bisque;
+}
+title {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.steps {
+    color: red;
+}
+ul {
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
