@@ -1,9 +1,16 @@
 h1 {
     padding:3px;
     margin-bottom: 5px;
-    border-bottom: 5px blue;
+    border-bottom: 10px black;
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    background: yellow;
+    margin: 0px 10px;
+    padding-left: 170px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 body {
     color: green;
